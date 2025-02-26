@@ -13,6 +13,7 @@
     "slidev-theme-envek": "latest"
   },
   "devDependencies": {
+    "playwright": "^1.50.1",
     "playwright-chromium": "^1.50.1"
   }
 }
