@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@iconify-json/logos": "^1.2.3",
+    "@slidev/cli": "latest",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "slidev-theme-envek": "latest"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.50.1"
+  }
+}
